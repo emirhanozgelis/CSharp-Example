@@ -1,0 +1,7 @@
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\bin\Debug\arabaSimulasyonu.exe.config
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\bin\Debug\arabaSimulasyonu.exe
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\bin\Debug\arabaSimulasyonu.pdb
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\obj\Debug\arabaSimulasyonu.csprojResolveAssemblyReference.cache
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\obj\Debug\arabaSimulasyonu.csproj.CoreCompileInputs.cache
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\obj\Debug\arabaSimulasyonu.exe
+c:\users\emirhan\source\repos\arabaSimulasyonu\arabaSimulasyonu\obj\Debug\arabaSimulasyonu.pdb

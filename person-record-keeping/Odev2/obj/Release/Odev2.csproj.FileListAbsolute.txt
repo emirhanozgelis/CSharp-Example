@@ -1,0 +1,10 @@
+C:\Users\Emirhan\source\repos\Odev2\Odev2\bin\Release\Odev2.exe.config
+C:\Users\Emirhan\source\repos\Odev2\Odev2\bin\Release\Odev2.exe
+C:\Users\Emirhan\source\repos\Odev2\Odev2\bin\Release\Odev2.pdb
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.Form1.resources
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.Form2.resources
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.csproj.GenerateResource.Cache
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.exe
+C:\Users\Emirhan\source\repos\Odev2\Odev2\obj\Release\Odev2.pdb
